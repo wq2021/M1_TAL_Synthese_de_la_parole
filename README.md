@@ -8,7 +8,7 @@ Le projet "synthèse de la parole" vise à mettre en place une chaîne de traite
 
 ## Mode d'emploi
 
-1. Ouvrez le logiciel Praat, sinon [téléchargez-en]('https://www.fon.hum.uva.nl/praat/').
+1. Ouvrez le logiciel Praat, sinon [téléchargez ici](https://www.fon.hum.uva.nl/praat/).
 2. Ouvrez le script : Open -> Read from file -> Qi_WANG.praat
 3. Exécutez le script : Run -> Run
 4. Dans la boîte de dialogue, sentez libre de faire des opérations suivantes :
