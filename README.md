@@ -8,10 +8,10 @@ Le projet "synthèse de la parole" vise à mettre en place une chaîne de traite
 
 ## Mode d'emploi
 
-1. Ouvrez le logiciel Praat, sinon [téléchargez-en.]('https://www.fon.hum.uva.nl/praat/')
+1. Ouvrez le logiciel Praat, sinon [téléchargez-en]('https://www.fon.hum.uva.nl/praat/')
 2. Ouvrez le script : Open -> Read from file -> Qi_WANG.praat
 3. Exécutez le script : Run -> Run
-4. Dans la boîte de dialogue, faites des opérations suivantes  :
+4. Dans la boîte de dialogue, sentez libre de faire des opérations suivantes :
     * Insérez la phrase que vous souhaitez. Attention, pensez à **changer la lettre initiale en minuscule** et **supprimer les points de ponctuation et l'espace à l'issu du dernier mot** pour que le programme fonctionne mieux.
     * Cochez "oui" pour **ajouter un silence de 0.5 seconde** au début de la phrase.
     * Cochez "augmenter f0" pour **augmenter le F0** (F0, soit la Fréquence Fondamentale, désigne le nombre de vibrations par secondes, par exemple 95 Hz = 95 vibrations par seconde).
